@@ -1,0 +1,9 @@
+--- new.py	2021-12-09 09:53:28.624909900 +0530
++++ new1.py	2021-12-09 10:11:32.009324000 +0530
+@@ -5,5 +5,6 @@
+     print("new world of mine")
+     x = 1
+     if x < 1:
++        raise Exception("erro")
+         raise TypeError("error")
+ print("new file added:") 
