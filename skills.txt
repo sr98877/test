@@ -5,3 +5,6 @@ presentation skill
 interpersonal skill
 python 
 software code management tool ===> git
+cloud skill ---> aws,azure,gcp
+shell lanaguage ===> python,bash,powershell
+
