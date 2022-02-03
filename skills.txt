@@ -1,5 +1,5 @@
 Now a days you should this skills with you
-
+html
 Communication skills
 presentation skill
 interpersonal skill
@@ -7,4 +7,5 @@ python
 software code management tool ===> git
 cloud skill ---> aws,azure,gcp
 shell lanaguage ===> python,bash,powershell
-
+css
+networking
